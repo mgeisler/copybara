@@ -161,3 +161,4 @@ If you have any questions about how Copybara works please contact us at our [mai
 
   * If you want to see the test errors in Bazel, instead of having to cat the logs, add this line to your `~/.bazelrc: *test --test_output=streamed*`.
 
+...
